@@ -1,0 +1,1 @@
+This is a boiler plate code of spring web application
