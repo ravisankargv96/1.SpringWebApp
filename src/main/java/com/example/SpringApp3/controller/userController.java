@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 public class userController {
 
-    @GetMapping("/user")
+    @GetMapping("/")
     public String usermapping(){
         String msg = "Redirected to user mapping method";
         return msg;
